@@ -1,3 +1,6 @@
+/// <reference lib="dom" />
+/// <reference lib="dom.iterable" />
+
 import type { MetaFunction } from "@remix-run/node";
 
 export const meta: MetaFunction = () => {
