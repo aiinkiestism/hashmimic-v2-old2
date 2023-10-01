@@ -4,12 +4,12 @@ module.exports = {
     "@remix-run/eslint-config",
     "@remix-run/eslint-config/node",
     "standard-with-typescript",
-		"prettier",
+    "prettier",
   ],
   "rules": {
-		"@typescript-eslint/semi": "off",
-		"@typescript-eslint/consistent-type-imports": "off",
-		"curly": "off",
-		"@typescript-eslint/ban-ts-ignore": "off"
-	},
+    "@typescript-eslint/semi": "off",
+    "@typescript-eslint/consistent-type-imports": "off",
+    "curly": "off",
+    "@typescript-eslint/ban-ts-ignore": "off"
+  },
 };
