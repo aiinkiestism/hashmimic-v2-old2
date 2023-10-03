@@ -1,0 +1,4 @@
+preload = ["./plugins/extentions.ts"]
+
+[test]
+preload = ["./plugins/extentions.ts"]

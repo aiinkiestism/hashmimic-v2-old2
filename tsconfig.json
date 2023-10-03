@@ -18,7 +18,8 @@
     "moduleDetection": "force",
     "baseUrl": ".",
     "paths": {
-      "~/*": ["./app/*"]
+      "~/*": ["./app/*"],
+      "@/*": ["./app/*"]
     },
     "types": ["bun-types"],
     "noEmit": true
